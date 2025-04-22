@@ -11,3 +11,5 @@ enabled = true
 
 [vars]
 ACCESS_PASSWORD = "xhwwl3000"
+OPENAI_COMPATIBLE_API_KEY="sk-6m1vvnComq02YyF279ECcqSpeVAT4ng07tonSl1EzqsfsVfs"
+OPENAI_COMPATIBLE_API_BASE_URL="https://ai.999768.xyz"
